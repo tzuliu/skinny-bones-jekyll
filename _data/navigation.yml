@@ -1,6 +1,16 @@
 # Site navigation links
 
-- title:
+- title: Research
+  url:
+  excerpt:
+  image:
+ 
+- title: CV
+  url: /cv/
+  excerpt:
+  image:
+
+- title: Github
   url:
   excerpt:
   image:
