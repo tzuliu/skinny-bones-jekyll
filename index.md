@@ -1,7 +1,9 @@
 ---
 layout: archive
 permalink: /
-title: "Latest Posts"
+title: "Welcome to Tzu-Ping's Website"
+image:
+  feature: RaiderStadium.jpg
 ---
 
 <div class="tiles">
