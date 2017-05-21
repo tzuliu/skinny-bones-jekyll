@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 title: "Welcome to Tzu-Ping's Website"
 image:
-  feature: RaiderStadium.jpg
+  feature: Chicago1.jpg
 ---
 
 <div class="tiles">
