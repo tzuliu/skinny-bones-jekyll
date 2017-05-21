@@ -1,6 +1,6 @@
 # Tzu-Ping's Github Website Builder
 
-This website could be reached [tzuliu.github.io](https://tzuliu.github.io)
+This website could be reached at [tzuliu.github.io](https://tzuliu.github.io)
 
 ---
 
