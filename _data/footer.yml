@@ -1,5 +1,11 @@
 # Footer navigation links
 
+- title: R
+  url: https://www.r-project.org/
+ 
+- title: Python
+  url: https://www.python.org/
+
 - title: Github
   url: https://github.com
 
