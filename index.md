@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: home
 permalink: /
 title: "Welcome to Tzu-Ping's Website"
 image:
