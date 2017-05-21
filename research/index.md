@@ -16,4 +16,5 @@ My research mainly focuses on the effects of scandals on politics.
 ## Do Scandals Matter? An Interrupted Time-Series Design on Three Cases
 
 All the R codes, GAUSS codes, and the data sets could be reached at:
+
 [Do Scandals Matter? An Interrupted Time-Series Design on Three Cases](https://github.com/tzuliu/Do-Scandals-Matter-An-Interrupted-Time-Series-Design-on-Three-Cases)
