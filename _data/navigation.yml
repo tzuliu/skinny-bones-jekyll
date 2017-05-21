@@ -1,5 +1,10 @@
 # Site navigation links
 
+- title: About
+  url: 
+  excerpt:
+  image:
+
 - title: Research
   url: /research/
   excerpt:
@@ -7,10 +12,5 @@
  
 - title: CV
   url: /cv/
-  excerpt:
-  image:
-
-- title: Github
-  url: "https://github.com/tzuliu"
   excerpt:
   image:
