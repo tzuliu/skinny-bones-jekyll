@@ -1,13 +1,14 @@
-# Skinny Bones Jekyll Starter
+# Tzu-Ping's Github Website Builder
 
-The building of this Github + Jekyll is based on [skinny-bones-jekyll](https://github.com/mmistakes/skinny-bones-jekyll). You can find more details at [Skinny Bones](https://mmistakes.github.io/skinny-bones-jekyll/) and [Made Mistakes](https://mademistakes.com/).
+This website could be reached [tzuliu.github.io](https://tzuliu.github.io)
 
 ---
 
-## Notable Features
+## About
 
-* Jekyll 3.x and GitHub Pages compatible.
-* Stylesheet built using Sass.
-* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
-* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
+This Github + Jekyll is built based on [skinny-bones-jekyll](https://github.com/mmistakes/skinny-bones-jekyll). You could find more details and tutorials at:
+
+* [Skinny Bones](https://mmistakes.github.io/skinny-bones-jekyll/)
+* [Made Mistakes](https://mademistakes.com/)
+* [Fred 2](https://github.com/FRED-2/fred-2.github.io)
+* [Michael Levy](https://github.com/michaellevy/michaellevy.github.io)
